@@ -1,0 +1,1 @@
+print("the file is merged to the remote repo")
